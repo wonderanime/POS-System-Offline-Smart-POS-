@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 
 # 🛒 SmartPOS
@@ -13,6 +12,27 @@ Built with PHP + SQLite, packaged as a single Windows `.exe`.
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 </div>
+
+---
+
+## 📥 Download
+
+**[⬇️ Download SmartPOS (Windows installable .zip)](https://drive.google.com/file/d/1_DYuebAcHiR6z7wbHNqlMQcc5-n6JSKq/view?usp=sharing)**
+
+No PHP or dependencies needed — just download, extract, and run `SmartPOS.exe`.
+
+---
+
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="Capture.PNG" width="45%" />
+  <img src="Capture1.PNG" width="45%" />
+</p>
+<p align="center">
+  <img src="Capture3.PNG" width="45%" />
+  <img src="Capture4.PNG" width="45%" />
+</p>
 
 ---
 
@@ -41,8 +61,8 @@ Built with PHP + SQLite, packaged as a single Windows `.exe`.
 Requires PHP 8.x with the SQLite and GD extensions.
 
 ```bash
-git clone https://github.com/<your-username>/smartpos.git
-cd smartpos/app
+git clone https://github.com/wonderanime/POS-System-Offline-Smart-POS-.git
+cd POS-System-Offline-Smart-POS-/app
 php -S 127.0.0.1:8741 -t public public/router.php
 ```
 
@@ -124,7 +144,3 @@ Please test against `php -S 127.0.0.1:8741 -t public public/router.php` before s
 ## License
 
 [MIT](LICENSE) — free to use, modify, and distribute.
-=======
-# POS-System-Offline-Smart-POS-
-SmartPOS is a lightweight, offline-first POS system built with PHP and SQLite. Features: sales &amp; checkout, inventory management, customer/supplier tracking, purchases, expenses, discounts, sales history, void/refund handling, reports &amp; analytics, database backups, activity logs, and a customizable dashboard — runs fully locally.
->>>>>>> 35c1365196d76ec1099f14b52d6024f884610132

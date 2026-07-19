@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 🛒 SmartPOS
@@ -123,3 +124,7 @@ Please test against `php -S 127.0.0.1:8741 -t public public/router.php` before s
 ## License
 
 [MIT](LICENSE) — free to use, modify, and distribute.
+=======
+# POS-System-Offline-Smart-POS-
+SmartPOS is a lightweight, offline-first POS system built with PHP and SQLite. Features: sales &amp; checkout, inventory management, customer/supplier tracking, purchases, expenses, discounts, sales history, void/refund handling, reports &amp; analytics, database backups, activity logs, and a customizable dashboard — runs fully locally.
+>>>>>>> 35c1365196d76ec1099f14b52d6024f884610132
